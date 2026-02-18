@@ -109,7 +109,6 @@ Pattern programs help you understand:
 * Loop logic
 * Problem solving
 * Interview coding basics
-
 ---
 
 ## ⭐ Easy Trick to Remember
