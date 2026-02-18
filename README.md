@@ -23,7 +23,7 @@ for i in range(1, rows + 1):
 
 ## 🧠 Simple Step-by-Step Explanation
 
-### 1️⃣ Set number of rows
+##1️⃣ Set number of rows
 
 ```python
 rows = 5
