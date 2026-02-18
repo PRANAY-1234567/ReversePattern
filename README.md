@@ -1,4 +1,4 @@
-# 📘 README — Star Pattern Program (Python)
+ 📘 README — Star Pattern Program (Python)
 
 ## 📌 Description
 
