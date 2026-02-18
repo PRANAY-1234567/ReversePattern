@@ -116,5 +116,4 @@ Pattern programs help you understand:
 
 👉 Outer loop = **Rows**
 👉 Inner loop = **Stars per row**
-
 ---
