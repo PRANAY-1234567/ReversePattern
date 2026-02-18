@@ -1,5 +1,4 @@
- 📘 README — Star Pattern Program (Python)
-
+## 📘 README — Star Pattern Program (Python)
 ## 📌 Description
 
 This Python program prints a **left-side triangle star pattern** using nested loops.
